@@ -1,0 +1,4 @@
+dropwizard-core.iml
+dropwizard-core/.idea/
+dropwizard-core/dependency-reduced-pom.xml
+dropwizard-core/target/
